@@ -27,9 +27,20 @@
   * [Linux 攻防笔记](/linux/linux_safe_setup.md)
 
 * Kubernetes 部署
+  * [1. K8S 基础环境](/kubernetes/kubernetes_basic.md)
+  * [2. K8S 监控](/kubernetes/kubernetes_dashboard.md)
+  * [3. K8S 主节点](/kubernetes/kubernetes_master.md)
+  * [4. K8S 子节点](/kubernetes/kubernetes_node.md)
+  * [5. Ubuntu22.04 基于Containerd](/kubernetes/ubuntu_k8s1.26.3_Containerd.md)
+  * [6. Ubuntu22.04 基于Docker](/kubernetes/ubuntu_k8s1.26.3_docker23.md)
 
 * Linux eBPF 技术
+  * [eBPF 技术栈记录](/eBPF/eBPF_stack.md)
+  * [基于 eBPF SRS 网关设想](/eBPF/srs_gateway.md)
  
 * 数据库相关 
   * [MongoDB](/database/mongodb.md)
   * [关系型树形结构设计](/database/mysql_tree_tabs.md)
+
+* Jetbrains 资料
+  * [Ubuntu Desktop 桌面环境配置](/jetbrains-ide/ubuntu_desktop_settigs.md)
