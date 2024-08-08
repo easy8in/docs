@@ -1,5 +1,8 @@
 <!-- _sidebar.md -->
 
+* CMake 学习
+  * [CMake 快速开始](/cmake/cmake_learn.md)
+
 * Hadoop 生态部署
   * [1. 环境准备](/big_data_technology/1.md)
   * [2. Hadoop 集群安装](/big_data_technology/2.md)
